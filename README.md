@@ -1,13 +1,13 @@
 # Requirements
 
-##Install mongodb
+## Install mongodb
 
 - Mac - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#installing-mongodb-4.4-edition-edition (Default configs)
 - Linux - https://docs.mongodb.com/manual/administration/install-on-linux/
 - Windows - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows-unattended/
 
 
-##Install npm/node and yarn
+## Install npm/node and yarn
 - Latest npm/node - https://nodejs.org/en/download/package-manager/
 - Yarn - https://classic.yarnpkg.com/en/docs/install
 
